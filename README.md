@@ -57,6 +57,5 @@ language and tools
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/ajramarajaona)](https://www.twitter.com/ajramarajaona)
 [![Instagram Badge](https://img.shields.io/badge/-@anjatianarm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/anjatianarm/)](https://instagram.com/anjatianarm)
 [![Telegram Badge](https://img.shields.io/badge/-ajtvirt-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)]()
 
 **Thank you for visiting my profile 😉**
